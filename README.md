@@ -6,7 +6,7 @@ The order to be followed
 2. Training of GAN
 
 A. B4GAN : 
-          This notebook consists of some simple implementation of
+          This notebook consists of some simple implementation of              
           a. CNN                         
           b. UpSampling2D layer in keras             
           c. Conv2DTranspose layer in keras            
